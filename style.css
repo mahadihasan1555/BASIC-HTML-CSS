@@ -1,0 +1,43 @@
+.first-selector{
+    font-size: 40px;
+}
+#second-selector{
+    font-size: 30px;
+}
+span{
+    background-color: aqua;
+    display: block;
+}
+div{
+    
+    background-color: brown;
+    display: inline;
+    
+}
+div{
+    width: 80px;
+    height: 50px;
+    font-family: cursive;
+}
+h5{
+    width: 500px;
+    height: 200px;
+    background-color: crimson;
+    border: 20px solid orange;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding-left: 20px;
+    padding-bottom: 20PX;
+    border-left-style: dashed;
+    border-right-style: dotted;
+    border-right-color:red ;
+    float:left;
+    font-family: fantasy;
+    font-size: xx-large;
+    font-style: italic;
+}
+h6{
+    margin: 10px, 40px;
+    text-align: end;
+}
